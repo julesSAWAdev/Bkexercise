@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.boucaud.stephane.androidrattrapage", appContext.getPackageName());
+        assertEquals("com.Sawadevelopers.bkexercise.MovieDbexer", appContext.getPackageName());
     }
 }
