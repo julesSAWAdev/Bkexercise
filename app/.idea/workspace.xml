@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0b38cdf-ce36-4c04-aae1-6e1697e6b805" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/Controllers/ControllerInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/androidTest/java/com/boucaud/stephane/androidrattrapage/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/androidTest/java/com/Sawadevelopers/bkexercise/MovieDbexer/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boucaud/stephane/androidrattrapage/APIMovieDB/APIMovieDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/APIMovieDB/APIMovieDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boucaud/stephane/androidrattrapage/Activities/CreatorDetailsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/Activities/CreatorDetailsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boucaud/stephane/androidrattrapage/Activities/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/Activities/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boucaud/stephane/androidrattrapage/Activities/MovieDetailsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/Activities/MovieDetailsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boucaud/stephane/androidrattrapage/Activities/SearchMoviesActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/Activities/SearchMoviesActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boucaud/stephane/androidrattrapage/Activities/SearchTVActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/Activities/SearchTVActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boucaud/stephane/androidrattrapage/Activities/TVDetailsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/Activities/TVDetailsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boucaud/stephane/androidrattrapage/Activities/TrendsMoviesActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/Activities/TrendsMoviesActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boucaud/stephane/androidrattrapage/Activities/TrendsTVActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/Activities/TrendsTVActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boucaud/stephane/androidrattrapage/Activities/VisitedMoviesActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/Activities/VisitedMoviesActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boucaud/stephane/androidrattrapage/Activities/VisitedTVActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/Activities/VisitedTVActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boucaud/stephane/androidrattrapage/Controllers/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/Controllers/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boucaud/stephane/androidrattrapage/Controllers/ControllerInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boucaud/stephane/androidrattrapage/Models/Creator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/Models/Creator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boucaud/stephane/androidrattrapage/Models/EpisodeToAir.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/Models/EpisodeToAir.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boucaud/stephane/androidrattrapage/Models/Genre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/Models/Genre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boucaud/stephane/androidrattrapage/Models/GenresList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/Models/GenresList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boucaud/stephane/androidrattrapage/Models/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/Models/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boucaud/stephane/androidrattrapage/Models/MovieDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/Models/MovieDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boucaud/stephane/androidrattrapage/Models/MoviesList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/Models/MoviesList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boucaud/stephane/androidrattrapage/Models/Network.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/Models/Network.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boucaud/stephane/androidrattrapage/Models/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/Models/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boucaud/stephane/androidrattrapage/Models/ProductionCompany.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/Models/ProductionCompany.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boucaud/stephane/androidrattrapage/Models/ProductionCountry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/Models/ProductionCountry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boucaud/stephane/androidrattrapage/Models/Season.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/Models/Season.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boucaud/stephane/androidrattrapage/Models/SpokenLanguage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/Models/SpokenLanguage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boucaud/stephane/androidrattrapage/Models/TVShow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/Models/TVShow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boucaud/stephane/androidrattrapage/Models/TVShowDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/Models/TVShowDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boucaud/stephane/androidrattrapage/Models/TVShowsList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/Models/TVShowsList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boucaud/stephane/androidrattrapage/RecyclerViewsClasses/HorizontalCreatorsAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/RecyclerViewsClasses/HorizontalCreatorsAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boucaud/stephane/androidrattrapage/RecyclerViewsClasses/HorizontalCreatorsViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/RecyclerViewsClasses/HorizontalCreatorsViewHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boucaud/stephane/androidrattrapage/RecyclerViewsClasses/SearchMoviesAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/RecyclerViewsClasses/SearchMoviesAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boucaud/stephane/androidrattrapage/RecyclerViewsClasses/SearchMoviesViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/RecyclerViewsClasses/SearchMoviesViewHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boucaud/stephane/androidrattrapage/RecyclerViewsClasses/SearchTVAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/RecyclerViewsClasses/SearchTVAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boucaud/stephane/androidrattrapage/RecyclerViewsClasses/SearchTVViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/RecyclerViewsClasses/SearchTVViewHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boucaud/stephane/androidrattrapage/RecyclerViewsClasses/TrendsMoviesAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/RecyclerViewsClasses/TrendsMoviesAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boucaud/stephane/androidrattrapage/RecyclerViewsClasses/TrendsMoviesViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/RecyclerViewsClasses/TrendsMoviesViewHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boucaud/stephane/androidrattrapage/RecyclerViewsClasses/TrendsTVAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/RecyclerViewsClasses/TrendsTVAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boucaud/stephane/androidrattrapage/RecyclerViewsClasses/TrendsTVViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/RecyclerViewsClasses/TrendsTVViewHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boucaud/stephane/androidrattrapage/RecyclerViewsClasses/VisitedMoviesAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/RecyclerViewsClasses/VisitedMoviesAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boucaud/stephane/androidrattrapage/RecyclerViewsClasses/VisitedMoviesViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/RecyclerViewsClasses/VisitedMoviesViewHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boucaud/stephane/androidrattrapage/RecyclerViewsClasses/VisitedTVsAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/RecyclerViewsClasses/VisitedTVsAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boucaud/stephane/androidrattrapage/RecyclerViewsClasses/VisitedTVsViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/RecyclerViewsClasses/VisitedTVsViewHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/boucaud/stephane/androidrattrapage/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Sawadevelopers/bkexercise/MovieDbexer/ExampleUnitTest.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="AndroidFinalProjectRattrapage" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/Activities/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="675">
+              <caret line="54" selection-start-line="54" selection-end-line="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_main.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+              <folding>
+                <element signature="e#641#666#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/boucaud/stephane/androidrattrapage/APIMovieDB/APIMovieDB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/boucaud/stephane/androidrattrapage/Activities/MainActivity.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/Activities/MainActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/activity_main.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="831" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages AndroidView="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AndroidFinalProjectRattrapage" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="AndroidFinalProjectRattrapage" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="AndroidFinalProjectRattrapage" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AndroidFinalProjectRattrapage" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="Sawadevelopers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AndroidFinalProjectRattrapage" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="Sawadevelopers" type="462c0819:PsiDirectoryNode" />
+              <item name="bkexercise" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AndroidFinalProjectRattrapage" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="Sawadevelopers" type="462c0819:PsiDirectoryNode" />
+              <item name="bkexercise" type="462c0819:PsiDirectoryNode" />
+              <item name="MovieDbexer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AndroidFinalProjectRattrapage" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="Sawadevelopers" type="462c0819:PsiDirectoryNode" />
+              <item name="bkexercise" type="462c0819:PsiDirectoryNode" />
+              <item name="MovieDbexer" type="462c0819:PsiDirectoryNode" />
+              <item name="Activities" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AndroidFinalProjectRattrapage" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+            <path>
+              <item name="AndroidFinalProjectRattrapage" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="AndroidFinalProjectRattrapage" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="values" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="AndroidFinalProjectRattrapage" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="device.picker.selection" value="Nexus_5X_API_28" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0b38cdf-ce36-4c04-aae1-6e1697e6b805" name="Default Changelist" comment="" />
+      <created>1560156620232</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560156620232</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="831" extended-state="0" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.34406295" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Build Variants" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="Resources Explorer" order="8" />
+      <window_info anchor="bottom" id="Find" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="4" weight="0.32882273" />
+      <window_info anchor="bottom" id="Run" order="5" />
+      <window_info active="true" anchor="bottom" id="Logcat" order="6" visible="true" weight="0.32882273" />
+      <window_info anchor="bottom" id="Android Profiler" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" />
+      <window_info anchor="right" id="Preview" visible="true" weight="0.3297568" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Gradle" order="1" weight="0.3297568" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Assistant" order="4" weight="0.3297568" />
+      <window_info anchor="right" id="Device File Explorer" order="5" side_tool="true" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/gradlew">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_creator_details.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="46" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/Controllers/ControllerInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/APIMovieDB/APIMovieDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/Controllers/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="96" column="36" selection-start-line="96" selection-start-column="36" selection-end-line="96" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/Sawadevelopers/bkexercise/MovieDbexer/ExampleUnitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="64" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/Models/Creator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="54" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Sawadevelopers/bkexercise/MovieDbexer/Activities/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="e#641#666#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+  </component>
+</project>

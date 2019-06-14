@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BkExercise</string>
+    <string name="Main_page_title">Movie Fan</string>
+     <string name="trend_movies_button">Now Playing</string>
+    <string name="Trends_page_title">Welcome !</string>
+
+</resources>
